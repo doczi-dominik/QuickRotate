@@ -1,6 +1,6 @@
 # QuickRotate
 
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
 
 ### Rotate displays quickly and easily from your system tray!
 
