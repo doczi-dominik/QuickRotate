@@ -71,6 +71,12 @@ class TrayContext : ApplicationContext
 
             items.Insert(3 + i, item);
         }
+
+        if (displayIDs.Count == 1) {
+            var item = items[3] as ToolStripMenuItem;
+
+            item!.Checked = true;
+        }
     }
 
     void ApplyRotation(DisplayUtils.Orientation orientation)
