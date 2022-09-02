@@ -10,7 +10,7 @@
 1. Grab the latest release from the [Releases page](https://github.com/doczi-dominik/QuickRotate/releases)
 2. Unzip the archive
 3. Run `QuickRotate.exe`
-*4. (optional) Add QuickRotate to the list of startup applications*
+4. *(optional) Add QuickRotate to the list of startup applications*
     1. Create a shortcut to `QuickRotate.exe` *(e.g.: by Right-click > Create shortcut)*
     2. Press `Win + R` to open up the Run prompt and type in `shell:startup`
     3. Drop the shortcut in the Startup directory
